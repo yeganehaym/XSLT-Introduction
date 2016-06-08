@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<Albums>
+	<Album>
+		<name>Modern Talking</name>
+		<cover>https://upload.wikimedia.org/wikipedia/en/6/63/Modern_talking-the_final_album.jpg</cover>
+		<Genres>
+			<Genre>POP</Genre>
+			<Genre>Classic</Genre>
+		</Genres>
+		<Description>
+		this is a marvelous Album
+		</Description>
+		<DateOfRelease>11/06/1990</DateOfRelease>
+		<price>15.99$</price>
+	</Album>
+	
+		<Album>
+		<name>Came Here to Forget</name>
+		<cover>https://images-na.ssl-images-amazon.com/images/I/51-Itu%2B58QL._AA220_PJStripe-Robin,TopLeft,0,0_OU01_SL150_.jpg</cover>
+		<Genres>
+			<Genre>Jazz</Genre>
+		</Genres>
+		<Description>
+		this is a elegent Album
+		</Description>
+		<DateOfRelease>12/04/2005</DateOfRelease>
+		<price>25.50$</price>
+	</Album>
+	
+	
+		<Album>
+		<name>Black</name>
+		<cover>https://images-na.ssl-images-amazon.com/images/I/51KYVBihBtL._SL150_.jpg</cover>
+		<Genres>
+			<Genre>POP</Genre>
+			<Genre>Jazz</Genre>
+		</Genres>
+		<Description>
+		this is a awsome Album
+		</Description>
+		<DateOfRelease>01/01/2012</DateOfRelease>
+		<price>25.99$</price>
+	</Album>
+	
+	
+			<Album>
+		<name>Dystopia</name>
+		<cover>https://images-na.ssl-images-amazon.com/images/I/61ihYx3kWnL._SL150_.jpg</cover>
+		<Genres>
+			<Genre>Classic</Genre>
+		</Genres>
+		<Description>
+		this is a marvelous Album
+		</Description>
+		<DateOfRelease>12/04/1980</DateOfRelease>
+		<price>25.99$</price>
+	</Album>
+	
+			<Album>
+		<name>Game Changer</name>
+		<cover>https://images-na.ssl-images-amazon.com/images/I/51dJLMmIjkL._SL150_.jpg</cover>
+		<Genres>
+			<Genre>POP</Genre>
+			<Genre>Jazz</Genre>
+		</Genres>
+		<Description>
+		this is a marvelous Album
+		</Description>
+		<DateOfRelease>12/04/1980</DateOfRelease>
+		<price>9.99$</price>
+	</Album>
+	
+			<Album>
+		<name>A Whole Lot More to Me</name>
+		<cover>https://images-na.ssl-images-amazon.com/images/I/51%2B0BGAR41L._SL150_.jpg</cover>
+		<Genres>
+			<Genre>Jazz</Genre>
+		</Genres>
+		<Description>
+		this is a marvelous Album
+		</Description>
+		<DateOfRelease>15/04/1980</DateOfRelease>
+		<price>7.99$</price>
+	</Album>
+</Albums>
